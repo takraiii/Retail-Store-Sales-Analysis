@@ -1,4 +1,4 @@
-📊 Retail Store Sales Analysis Project
+#📊 Retail Store Sales Analysis Project
 An end-to-end data analytics project focused on uncovering consumer behavior and business growth opportunities. This project analyzes 5,000 transactions using a full-stack data approach: Python, SQL, and Power BI.
 
 🎯 Project Overview
