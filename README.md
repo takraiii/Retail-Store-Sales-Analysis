@@ -2,6 +2,8 @@
 
 An end-to-end data analytics project uncovering high-value customer segments, seasonal trends, and operational insights from **5,000 retail transactions**. This project utilizes **Python, SQL, and Power BI** to drive strategic business decisions.
 
+Got Data from: https://www.kaggle.com/datasets/hassanjameelahmed/store-sales
+
 ---
 
 ## 🎯 Project Overview
